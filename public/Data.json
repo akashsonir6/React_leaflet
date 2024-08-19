@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0369, 38.9072]
+      },
+      "properties": {
+        "name": "Washington, D.C.",
+        "type": "Capital City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3423, 38.8462]
+      },
+      "properties": {
+        "name": "Fairfax, VA",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9378, 38.7893]
+      },
+      "properties": {
+        "name": "Upper Marlboro, MD",
+        "type": "Town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4861, 39.0352]
+      },
+      "properties": {
+        "name": "Germantown, MD",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.2465, 38.8816]
+      },
+      "properties": {
+        "name": "Falls Church, VA",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4328, 38.9637]
+      },
+      "properties": {
+        "name": "Leesburg, VA",
+        "type": "Town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.7277, 39.1754]
+      },
+      "properties": {
+        "name": "Laurel, MD",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.7075, 39.0046]
+      },
+      "properties": {
+        "name": "Bowie, MD",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4838, 38.3032]
+      },
+      "properties": {
+        "name": "Fredericksburg, VA",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4968, 38.9686]
+      },
+      "properties": {
+        "name": "Ashburn, VA",
+        "type": "City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5260, 38.9794]
+      },
+      "properties": {
+        "name": "Annapolis, MD",
+        "type": "City"
+      }
+    }
+  ]
+}
